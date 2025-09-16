@@ -165,6 +165,9 @@ p {
     /* border: 1px dotted blue; */
     z-index: 2;
 }
+.text_box_6 :hover {
+    font-weight: 600;
+}
 p1 {
     display: flex;
     font-size: 40px;
@@ -316,4 +319,7 @@ img {
 }
 .text_page-3 {
     color: black;
+}
+h3 {
+    color: aliceblue;
 }
